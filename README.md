@@ -1,2 +1,3 @@
-# Aug2023Challenge
-Aug 2023 My inaugural challenge - 48 hour game jam. 
+# Aug2023 Challenge
+My inaugural challenge - 48 hour game jam. 
+Isometric zombie shooter
